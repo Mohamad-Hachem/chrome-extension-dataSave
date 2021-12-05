@@ -67,17 +67,17 @@ copyBtn.addEventListener("click",function()
     //alert("copied")
 })
 
-extractBtn.addEventListener("click", function()
-{
-    let string = ""
-    for(let i = 0 ; i < myLeads.length ; i++)
-    {
-        string += myLeads[i] + "\n"
-    }
-    //let FileSaver = require('file-saver')
-    //let blob = new blob(["string"],{type: 'text/plain;charset=utf-8"'})
-    require FileSaver.js
-    FileSaver.saveAs(["string"],{type: 'text/plain;charset=utf-8"'},'ChromExtension.txt')
-    copiedEl.textContent = "extarcted"
-})
+// extractBtn.addEventListener("click", function()
+// {
+//     let string = ""
+//     for(let i = 0 ; i < myLeads.length ; i++)
+//     {
+//         string += myLeads[i] + "\n"
+//     }
+//     //let FileSaver = require('file-saver')
+//     //let blob = new blob(["string"],{type: 'text/plain;charset=utf-8"'})
+//     require FileSaver.js
+//     FileSaver.saveAs(["string"],{type: 'text/plain;charset=utf-8"'},'ChromExtension.txt')
+//     copiedEl.textContent = "extarcted"
+// })
 
