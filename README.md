@@ -8,8 +8,7 @@ how to make it work :
 3- enable developer mode
 4- allocate the file to your browser
 5- start using the file
-
-------------------------------------------
+====================
 this chrome extension has:
 .an input place to put your needed data from any tab
 .a save text button to save what you have from the input
@@ -17,6 +16,6 @@ this chrome extension has:
 . a copy button to copy everything on the board to you clipboard where you can dirtecly use it anywhere else
 . a extract button to extract your board // still int the working process
 . a delete button to delete you board
------------------------------------------------
+======================
 
 I hope you benefit from the extension
