@@ -19,4 +19,4 @@ this chrome extension has:
 . a delete button to delete you board
 -----------------------------------------------
 
-I hope you benifit from the extension
+I hope you benefit from the extension
