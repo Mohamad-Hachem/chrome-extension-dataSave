@@ -67,6 +67,8 @@ copyBtn.addEventListener("click",function()
     //alert("copied")
 })
 
+
+//this is just a test 
 // extractBtn.addEventListener("click", function()
 // {
 //     let string = ""
